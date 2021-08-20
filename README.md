@@ -38,7 +38,7 @@ _**The ability to direct and contribute to initiatives and processes within.**_ 
 **Daniel Goleman** – Six Leadership Approaches
 - _**Coercive**_ - Imposes a vision, team follow this directive, Effective in crisis & immediate result required, Ineffective - damage sense of ownership & motivation. <br/>
 - _**Authoritative**_ - Proposes bold vision/solutions, invite team to join challenge, Effective when no clear path & proposal is compelling, team understand their role clearly, ineffective when leader lack expertise. <br/>
-- **Affiliative**_ - Strong relationship & encouraging feedback, high loyalty, Effective all times, especially in dysfunctional team, Infective when used alone.
+- _**Affiliative**_ - Strong relationship & encouraging feedback, high loyalty, Effective all times, especially in dysfunctional team, Infective when used alone.
 - _**Democratic**_ - Invite collaboration & consensus, Effective when leader lack clear vision & anticipate resistance, Infective when less time. <br/>
 - _**Pacesetting**_ - Sets high performance standards & challenge followers to meet expectations, Effective when team is highly competent & motivated, Infective lack of relationship, feedback & rewards. <br/>
 - _**Coaching**_ - Focuses on developing team & aligning goals, Effective when leader has strategic skills, good communication & motivation, receptive team members, ineffective when resistance in change and performance. <br/>
