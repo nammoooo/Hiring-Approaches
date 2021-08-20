@@ -30,19 +30,13 @@ Culture affects everything in an organization, from the public’s perception of
 - **Learning** - Organizational conventions, values, practices, and processes encourage individuals to increase knowledge, competence, and performance.
 - **High-performance** - Innovation, elevated performance, customer-centric strategies, relationships, communication.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Daniel Goleman – Six Leadership Approaches
+- Coercive - Imposes a vision, team follow this directive, Effective in crisis & immediate result required, Ineffective - damage sense of ownership & motivation
+- Authoritative - Proposes bold vision/solutions, invite team to join challenge, Effective when no clear path & proposal is compelling, team understand their role clearly, ineffective when leader lack expertise.
+- Affiliative - Strong relationship & encouraging feedback, high loyalty, Effective all times, especially in dysfunctional team, Infective when used alone.
+- Democratic - Invite collaboration & consensus, Effective when leader lack clear vision & anticipate resistance, Infective when less time
+- Pacesetting - Sets high performance standards & challenge followers to meet expectations, Effective when team is highly competent & motivated, Infective lack of relationship, feedback & rewards.
+- Coaching - Focuses on developing team & aligning goals, Effective when leader has strategic skills, good communication & motivation, receptive team members, ineffective when resistance in change and performance.
 
 
 
