@@ -49,6 +49,18 @@ _**A problem solving approach that aims to improve the lived experiences of peop
 **The Principles** - Guide your day-to-day work by keeping your user in mind, collaborating with a diverse team, and continuously trying to improve your solutions.
 <img width="1037" alt="Screenshot 2021-08-20 at 7 13 17 PM" src="https://user-images.githubusercontent.com/88934779/130242851-74eed62b-af3e-410e-b25a-c2869178fb3d.png">
 
+## Unconscious Bias ## 
+_**A quick and often inaccurate judgment based on limited facts and our own life experiences. [Unconscious](https://www.mslearning.microsoft.com/course/72169/launch#:~:text=Welcome%20to%20the%20eLesson%3A%20Unconscious,in%20your%20own%20work%20environment.) [bias](https://en.wikipedia.org/wiki/List_of_cognitive_biases) is not intentional.**_ <br/>
+- _**Groupthink**_ - When the desire for harmony or conformity in the group results in incorrect decision-making. <br/>
+- _**Affinity bias**_ - The tendency to warm up to people who are similar to ourselves; favoring those who have things in common with us. <br/>
+- _**Confirmation bias**_ - Seeking out evidence that confirms our initial perceptions, ignoring contrary information. <br/>
+- _**The Halo Effect**_ - The tendency to think everything about a person is good because our first impression of them was good. <br/>
+- _**Perception bias**_ - The tendency to form stereotypes and assumptions about certain groups that makes it difficult to make an objective judgement about individual members of those groups. <br/>
+- _**Similarity bias**_ - When we favor or choose people who we identify as similar to us. <br/>
+- _**Attribution bias**_ - When we perceive or judge the actions of others more harshly than we would judge ourselves. <br/>
+- _**Expedience bias**_ - When we make a decision based on what comes to mind fastest, rather than being deliberate and gathering objective information. <br/>
+- _**Experience bias**_ - When we believe that everyone thinks the way we do and anyone who disagrees with us is wrong. <br/>
+- _**Bias**_ - When people values, beliefs, or prejudices distort favor or against something or someone when compared to another an inclination to think one way about a group of people or individual. <br/>
 
 
 
