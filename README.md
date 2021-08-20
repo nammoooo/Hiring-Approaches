@@ -39,6 +39,11 @@ Daniel Goleman – Six Leadership Approaches
 - Coaching - Focuses on developing team & aligning goals, Effective when leader has strategic skills, good communication & motivation, receptive team members, ineffective when resistance in change and performance.
 
 
+## Design thinking ## 
+**A problem solving approach that aims to improve the lived experiences of people.**
+**The Principles** - Guide your day-to-day work by keeping your user in mind, collaborating with a diverse team, and continuously trying to improve your solutions.
+<img width="1037" alt="Screenshot 2021-08-20 at 7 13 17 PM" src="https://user-images.githubusercontent.com/88934779/130242851-74eed62b-af3e-410e-b25a-c2869178fb3d.png">
+
 
 
 
